@@ -47,3 +47,32 @@ Use uma linguagem direta e profissional
 ```
 
 ![alt text](image-2.png)
+
+**Resposta do GPT**
+
+Claro! Aqui estão 5 perguntas de entrevista para o cargo de Analista de Marketing Digital – Júnior, focadas em competências técnicas e comportamentais, com linguagem direta e profissional:
+
+1️⃣ Competência Técnica – Estratégia e Execução
+“Quais canais de marketing digital você já utilizou (ex.: redes sociais, e-mail, tráfego pago)? Descreva uma ação que você executou e os resultados obtidos.”
+
+🎯 Avalia: Vivência prática, entendimento de canais e capacidade de mensurar resultados.
+
+2️⃣ Competência Técnica – Métricas e Análise
+“Quais métricas você considera essenciais para avaliar o desempenho de uma campanha digital e por quê?”
+
+🎯 Avalia: Conhecimento em KPIs (CTR, CPC, CPA, ROI, taxa de conversão etc.) e raciocínio analítico.
+
+3️⃣ Competência Técnica – Ferramentas
+“Com quais ferramentas de marketing digital você já teve contato (ex.: Google Ads, Meta Ads, Google Analytics, RD Station)? Como você as utilizou?”
+
+🎯 Avalia: Familiaridade com ferramentas e capacidade operacional.
+
+4️⃣ Competência Comportamental – Resolução de Problemas
+“Conte sobre uma situação em que uma campanha ou atividade não apresentou o resultado esperado. Como você analisou e o que fez para ajustar?”
+
+🎯 Avalia: Pensamento crítico, proatividade e capacidade de adaptação.
+
+5️⃣ Competência Comportamental – Organização e Prioridades
+“Como você organiza suas tarefas quando precisa lidar com múltiplas demandas e prazos curtos?”
+
+🎯 Avalia: Gestão do tempo, priorização e disciplina.
