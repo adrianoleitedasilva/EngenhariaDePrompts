@@ -80,19 +80,20 @@
 
 **Educação**
 
-- Tu1tores virtuais
-- 1Exercícios personalizados
-- 1Simulados
+- Tutores virtuais
+- Exercícios personalizados
+- Simulados
 - Materiais didáticos
-  O que está crescendo rapidamente
 
-### IA multimodal (texto + imagem + áudio + vídeo juntos)
+# O que está crescendo rapidamente
+
+## IA multimodal (texto + imagem + áudio + vídeo juntos)
 
 - Avatares realistas em tempo real
 - Filmes e games gerados por IA
 - Copilotos de trabalho (office, dev, design)
 
-## Observação importante
+# Observação importante
 
 Apesar do poder, ainda existem limites:
 
